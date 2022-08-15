@@ -17,8 +17,4 @@ hexadecimal -> binary
 #things to do
   -add a better hex_to_bi and bi_to_hex function
 
-
-
-
-
 might have made mistakes...
